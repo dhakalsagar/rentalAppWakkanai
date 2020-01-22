@@ -1,0 +1,15 @@
+<head>
+<title>Create a Post </title>
+</head>
+
+<body>
+<h1>Create a Post </h1>
+<form action="" method="POST">
+{% csrf_token %}
+Owner: <input type="text" name="owner"/><br/>
+Content: <br/>
+<input type="submit" value="Post"/>
+</form>
+</body>
+
+</html>
