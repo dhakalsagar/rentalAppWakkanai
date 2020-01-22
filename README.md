@@ -1,1 +1,2 @@
 # rentalAppWakkanai
+sdvaskdvmalskdnv alskdmn alvkdvnalkdnvk adsvaklS
